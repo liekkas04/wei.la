@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/images/images",
+    "pages/detais/details",
+    "pages/logs/logs",
+    "pages/recycle",
+    "pages/customer",
+    "pages/mypage",
+    "pages/mypage/mypage",
+    "pages/customer/customer",
+    "pages/recycle/recycle"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/icon/home.png",
+        "selectedIconPath": "/icon/home_checked.png"
+      },
+      {
+        "pagePath": "pages/detais/details",
+        "text": "分类",
+        "iconPath": "/icon/catagory.png",
+        "selectedIconPath": "/icon/catagory_checked.png"
+      },
+      {
+        "pagePath": "pages/recycle/recycle",
+        "text": "回收",
+        "selectedIconPath": "/icon/recycle_checked.png",
+        "iconPath": "/icon/recycle.png"
+      },
+      {
+        "pagePath": "pages/customer/customer",
+        "text": "客服",
+        "iconPath": "/icon/server.png",
+        "selectedIconPath": "/icon/server_checked.png"
+      },
+      {
+        "pagePath": "pages/mypage/mypage",
+        "text": "我的",
+        "selectedIconPath": "/icon/my_checked.png",
+        "iconPath": "/icon/my.png"
+
+      }
+    ],
+    "selectedColor": "#FF0000"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
