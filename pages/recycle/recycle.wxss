@@ -1,1 +1,52 @@
 /* pages/recycle/recycle.wxss */
+.swiper_view{
+  height: 100 px;
+  width: 100%;
+  align-items: center;
+}
+.swiper_view image{
+  width: 100%;
+  object-fit: cover;
+}
+.reconmand{
+  display: flex;
+  flex-direction: row;
+}
+.recommand_item{
+  display: flex;
+  flex-direction: row;
+  padding-right: 8px;
+  padding-left: 8px;
+  padding-top: 2px;
+}
+.recommand_item image{
+  height: 16px;
+  width: 16px;
+}
+.recommand_item text{
+  font-size: 28rpx;
+  padding-left: 2px;
+  padding-right:2px
+}
+.process{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+
+}
+.process_title{
+  display: flex;
+  width: 96%;
+  flex-direction: row;
+  border-left-style:solid;
+  margin-top: 10px;
+  left: 10px;
+  margin-left: 10px;
+
+}
+.process_title text{
+  flex-direction: row;
+  justify-content: left;
+  padding-left: 8px;
+  font-size: 14px;
+}

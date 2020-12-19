@@ -35,8 +35,8 @@
   },
   "compileType": "miniprogram",
   "libVersion": "2.11.0",
-  "appid": "wx06efee938ae9b630",
-  "projectname": "%E6%97%85%E6%B8%B8%E7%9B%B8%E5%86%8C",
+  "appid": "touristappid",
+  "projectname": "wei.la",
   "debugOptions": {
     "hidedInDevtools": []
   },

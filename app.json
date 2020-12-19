@@ -1,12 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/images/images",
     "pages/detais/details",
     "pages/logs/logs",
-    "pages/recycle",
-    "pages/customer",
-    "pages/mypage",
     "pages/mypage/mypage",
     "pages/customer/customer",
     "pages/recycle/recycle"

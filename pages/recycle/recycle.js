@@ -5,6 +5,14 @@ Page({
    * 页面的初始数据
    */
   data: {
+    swiper:{
+      indicatorDots:true,
+      autoplay:true,
+      interval:10000,
+      duration:500,
+      background: ['demo-text-1', 'demo-text-2', 'demo-text-3'],
+      vertical:false
+    }
 
   },
 

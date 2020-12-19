@@ -1,2 +1,43 @@
 <!--pages/recycle/recycle.wxml-->
-<text>pages/recycle/recycle.wxml</text>
+<view class="container">
+<view class="swiper_view">
+
+  <swiper indicator-dots="{{swiper.indicatorDots}}"
+        autoplay="{{swiper.autoplay}}" interval="{{swiper.interval}}" duration="{{swiper.duration}}">
+        <block wx:for="{{swiper.background}}" wx:key="*this">
+          <swiper-item>
+          <image src="/images/image_1.jpg"></image>
+          </swiper-item>
+          <swiper-item>
+          <image src="/images/4f9d9d7b07f3652611906e5ff002e3fd.jpeg"></image>
+          </swiper-item>
+        </block>
+      </swiper>
+</view>
+<view class="reconmand">
+<view class="recommand_item">
+  <image src="/images/recommand.png" mode="left" ></image>
+  <text>免费取件</text>
+</view>
+<view class="recommand_item" >
+   <image src="/images/recommand.png" mode="left"></image>
+    <text>实价回收</text>
+</view>
+<view class="recommand_item">
+  <image src="/images/recommand.png" mode="left"></image>
+  <text>数据清除</text>
+</view>
+<view class="recommand_item">
+  <image src="/images/recommand.png" mode="left"></image>
+  <text>当天打款</text>
+</view>
+</view>
+<view class="process">
+  <view class="process_title">
+    <text>回收流程</text>
+  </view>
+  <view class="process_contant">
+    
+  </view>
+</view>
+</view>
