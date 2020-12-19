@@ -1,2 +1,6 @@
 <!--pages/mypage/mypage.wxml-->
-<text>pages/mypage/mypage.wxml</text>
+<view class="container">
+  <view class="userItem" >
+    <image src="/imgs/image_1.jpeg" mode="center" alt="暂无头像"/>
+  </view>
+</view>

@@ -1,1 +1,13 @@
 /* pages/mypage/mypage.wxss */
+.userItem{
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  top: -10%;
+}
+.userItem image{
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  
+}
