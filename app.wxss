@@ -8,3 +8,9 @@
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+.app_ele_margin_10{
+  margin-top: 10px;
+}
+.app_ele_margin_20{
+  margin-top: 20px;
+}

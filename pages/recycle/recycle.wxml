@@ -14,7 +14,7 @@
         </block>
       </swiper>
 </view>
-<view class="reconmand">
+<view class="reconmand app_ele_margin_20">
 <view class="recommand_item">
   <image src="/images/recommand.png" mode="left" ></image>
   <text>免费取件</text>
@@ -32,12 +32,80 @@
   <text>当天打款</text>
 </view>
 </view>
-<view class="process">
-  <view class="process_title">
+<view class="process app_ele_margin_20">
+  <view class="process_title app_ele_margin_20">
     <text>回收流程</text>
   </view>
-  <view class="process_contant">
-    
+  <view class="process_content app_ele_margin_20">
+    <view class="content">
+    <image src="/icon/phone.png"></image>
+    <view class="line"></view>
+    </view>
+    <view class="content">
+    <image src="/icon/menu.png"></image>
+    <view class="line"></view>
+    </view>
+    <view class="content">
+    <image src="/icon/deliver.png"></image>
+    <view class="line"></view>
+    </view>
+    <view class="content">
+    <image src="/icon/tranfer.png"></image>
+    <view class="line_end"></view>
+    </view>
+  </view>
+  <view class="process_detail app_ele_margin_20">
+    <text>选择机型</text>
+    <text>估价下单</text>
+    <text>快递发货</text>
+    <text>检测打款</text>
+  </view>
+  <view class="process_btn app_ele_margin_20">
+    <view class="btn">
+        <input type="button" value="免费估价"></input>
+        <input type="button" value="免费估价"></input>
+    </view>
+</view>
+</view>
+<view class="role app_ele_margin_20">
+  <view class="role_title">
+    <text>回收规则</text>
+  </view>
+  <view class="role_content app_ele_margin_20">
+    <text>采用Flex布局的元素，称为Flex容器（flex container），简称”容器”。它的所有子元素自动成为容器成员，称为Flex项目（flex item），简称”项目”。</text>
+  </view>
+
+  <view class="role_content app_ele_margin_20">
+    <text>采用Flex布局的元素，称为Flex容器（flex container），简称”容器”。它的所有子元素自动成为容器成员，称为Flex项目（flex item），简称”项目”。</text>
+  </view>
+
+  <view class="role_content app_ele_margin_20">
+    <text>采用Flex布局的元素，称为Flex容器（flex container），简称”容器”。它的所有子元素自动成为容器成员，称为Flex项目（flex item），简称”项目”。</text>
+  </view>
+
+  <view class="role_content app_ele_margin_20">
+    <text>采用Flex布局的元素，称为Flex容器（flex container），简称”容器”。它的所有子元素自动成为容器成员，称为Flex项目（flex item），简称”项目”。</text>
+  </view>
+
+  <view class="role_content app_ele_margin_20">
+    <text>采用Flex布局的元素，称为Flex容器（flex container），简称”容器”。它的所有子元素自动成为容器成员，称为Flex项目（flex item），简称”项目”。</text>
+  </view>
+</view>
+
+<view class="role app_ele_margin_20">
+  <view class="role_title">
+    <text>用户评价</text>
+  </view>
+  <view class="comments app_ele_margin_10">
+    <view class="user_image">
+      <image src=""></image>
+    </view>
+    <view>
+      <text>狗狗</text>
+      <image></image>
+      <text></text>
+      <text></text>
+    </view>
   </view>
 </view>
 </view>
