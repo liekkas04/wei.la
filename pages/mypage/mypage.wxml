@@ -3,4 +3,8 @@
   <view class="user_avater">
     <image src="/images/image_1.jpg"></image>
   </view>
+  <view class="bind_phone">
+      <text>绑定手机号码，以同步订单和优惠券</text>
+      <button size="mini">绑定</button>
+  </view>
 </view>
