@@ -96,15 +96,67 @@
   <view class="role_title">
     <text>用户评价</text>
   </view>
-  <view class="comments app_ele_margin_10">
-    <view class="user_image">
-      <image src=""></image>
+  <view class="comments app_ele_margin_20">
+    <view class="comment">
+      <view class="user_image">
+      <image src="/images/image_1.jpg"></image>
+      </view>
+      <view class="commnet_content app_ele_margin_left_10">
+        <text>狗狗</text>
+        <rate rate="4" disabled="true" value="4" class="rate"></rate>
+        <text>香，真香</text>
+        <text>魅族：16plus</text>
+     </view>
+
     </view>
-    <view>
-      <text>狗狗</text>
-      <image></image>
-      <text></text>
-      <text></text>
+    <view class="comment">
+      <view class="user_image">
+      <image src="/images/image_1.jpg"></image>
+      </view>
+      <view class="commnet_content app_ele_margin_left_10">
+        <text>狗狗</text>
+        <rate rate="4" disabled="true" value="4" class="rate"></rate>
+        <text>香，真香</text>
+        <text>魅族：16plus</text>
+     </view>
+
+    </view>
+    <view class="comment">
+      <view class="user_image">
+      <image src="/images/image_1.jpg"></image>
+      </view>
+      <view class="commnet_content app_ele_margin_left_10">
+        <text>狗狗</text>
+        <rate rate="4" disabled="true" value="4" class="rate"></rate>
+        <text>香，真香</text>
+        <text>魅族：16plus</text>
+     </view>
+     
+
+    </view>
+
+    <view class="comment">
+      <view class="user_image">
+      <image src="/images/image_1.jpg"></image>
+      </view>
+      <view class="commnet_content app_ele_margin_left_10">
+        <text>狗狗</text>
+        <rate rate="4" disabled="true" value="4" class="rate"></rate>
+        <text>香，真香</text>
+        <text>魅族：16plus</text>
+     </view>
+    </view>
+
+    <view class="comment">
+      <view class="user_image">
+      <image src="/images/image_1.jpg"></image>
+      </view>
+      <view class="commnet_content app_ele_margin_left_10">
+        <text>狗狗</text>
+        <rate rate="4" disabled="true" value="4" class="rate"></rate>
+        <text>香，真香</text>
+        <text>魅族：16plus</text>
+     </view>
     </view>
   </view>
 </view>

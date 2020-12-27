@@ -149,3 +149,37 @@ height: 1px;
 font-size: 28rpx;
 padding: 5px 2px;
 }
+.comments{
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+.comments text{
+  font-size: 12px;
+}
+.comment{
+  display: flex;
+  border: 1px solid beige;
+  flex-direction: row;
+  width: 92%;
+  margin-left: 8%;
+  box-shadow: 1px 1px 1px #e2e2e2;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+.comment image{
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  margin-left: 2px;
+}
+
+.commnet_content{
+  display: flex;
+  flex-direction: column;  
+}
+.app_ele_margin_left_10{
+  margin-left: 10px;
+}
+.rate{
+}

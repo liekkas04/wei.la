@@ -1,2 +1,6 @@
 <!--pages/mypage/mypage.wxml-->
-<text>pages/mypage/mypage.wxml</text>
+<view class="container">
+  <view class="user_avater">
+    <image src="/images/image_1.jpg"></image>
+  </view>
+</view>

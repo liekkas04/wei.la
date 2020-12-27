@@ -1,11 +1,13 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/detais/details",
-    "pages/logs/logs",
     "pages/mypage/mypage",
     "pages/customer/customer",
-    "pages/recycle/recycle"
+    "pages/recycle/recycle",
+    "pages/index/index",
+    "pages/detais/details",
+    "pages/logs/logs"
+   
+    
   ],
   "window": {
     "backgroundTextStyle": "light",
